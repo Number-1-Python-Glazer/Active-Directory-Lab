@@ -2,8 +2,7 @@
 
 A Windows Server 2022 Active Directory environment built from scratch in VirtualBox. The project covers domain controller promotion, user and OU management, PowerShell automation for bulk onboarding, Group Policy configuration, and NTFS file share security following the Principle of Least Privilege.
 
-Built by Iris as part of a pre-employability IT programme, targeted at junior IT support and apprenticeship roles.
-
+Built by Mahmoud
 ---
 
 ## What this project demonstrates
@@ -30,7 +29,7 @@ Built by Iris as part of a pre-employability IT programme, targeted at junior IT
 | vCPU | 6 cores |
 | Disk | 100 GB dynamic |
 | Forest | local.laboratory |
-| Domain Controller | DC-01 |
+| Domain Controller | DC-02 |
 | Static IP | 172.16.0.1 |
 
 ---
