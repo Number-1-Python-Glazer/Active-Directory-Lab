@@ -26,8 +26,8 @@ Built by Iris as part of a pre-employability IT programme, targeted at junior IT
 |-----------|-------|
 | Hypervisor | Oracle VirtualBox |
 | Server OS | Windows Server 2022 Standard (Desktop Experience) |
-| RAM | 4 GB |
-| vCPU | 2 cores |
+| RAM | 12 GB |
+| vCPU | 6 cores |
 | Disk | 100 GB dynamic |
 | Forest | local.laboratory |
 | Domain Controller | DC-01 |
