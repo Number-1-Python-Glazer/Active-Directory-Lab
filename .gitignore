@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# PowerShell transcripts
+*.transcript
+
+# Local environment files
+*.local
+*.env
+
+# Generated reports
+gpresult-*.html
